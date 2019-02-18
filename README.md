@@ -13,4 +13,4 @@ Deep network features?(e.g. VGG)
 Other optimization methods?(e.g. Adam)  
 Cool visualization(e.g. Features)  
 Other kind of loss(e.g. CrossEntropy)  
-I implement ADAM on the 2 layer NN in features.ipynb.  
+I implement ADAM on the 2 layer NN in features.ipynb. In addition, I complete all the inline question. 
